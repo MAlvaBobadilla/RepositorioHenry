@@ -1,0 +1,7 @@
+Desarrollo de la Tarea C02
+
+1.- Se crea la carpeta con los comandos 
+2.- Se crea el archivo txt
+
+3.- Se carga el proyecto al repo : Carga de carpeta y de archivo
+
